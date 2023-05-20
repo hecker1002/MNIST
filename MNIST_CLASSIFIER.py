@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[13]:
+
 
 
 # This ML model will only identify (classify) a handwritten DIGIT ( NOT a number)
@@ -166,13 +166,7 @@ plt.show()
 #we can remove noise (blurrines) from a mnist image using KNN Classifier .
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
